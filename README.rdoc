@@ -1,0 +1,3 @@
+== README
+
+YARB - Yet another rails blog. P.S. Trying out {batman.js}[http://batmanjs.org/]
