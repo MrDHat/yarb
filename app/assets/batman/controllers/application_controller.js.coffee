@@ -1,0 +1,1 @@
+class Yarb.ApplicationController extends Batman.Controller
