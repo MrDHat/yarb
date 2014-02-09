@@ -54,7 +54,7 @@ Yarb::Application.routes.draw do
   #     resources :products
   #   end
   
-  resources :post do
+  resources :posts do
     resources :comments
   end
 end
